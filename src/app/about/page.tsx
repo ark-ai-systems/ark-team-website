@@ -75,32 +75,33 @@ export default function AboutPage() {
           </div>
           <div className="flex flex-col gap-6 text-lg leading-[1.62] text-text-secondary">
             <p>
-              Rachel holds two master&apos;s degrees, in technical
-              communication and creative writing, and spent thirty years in
-              high tech, working across startups and massive corporations.
-              She also serves on the board of two NGOs, Nerissa&apos;s Place
-              and Gabriel Project Mumbai.
+              Rachel spent thirty years in high tech, across startups and
+              massive corporations, and holds two master&apos;s degrees.
+              She also serves on the board of two NGOs, Nerissa&apos;s
+              Place and Gabriel Project Mumbai.
             </p>
             <p>
-              Her work centers on hiring outstanding teams across the globe
-              and managing them well across continents and cultures. She has
-              spent much of her career helping organizations handle change:
-              new technology rollouts, new organizational structures, and,
-              most recently, a full conversion to an AI-first organization.
-              That meant embracing new tools, reimagining how jobs and
-              tasks work once AI is part of doing them, and helping people
-              from every kind of background make AI part of how they work.
+              Her real expertise is building teams that work across
+              continents and cultures, and hiring specifically for that.
+              She has spent much of her career guiding organizations
+              through real change: new technology rollouts, new
+              organizational structures, and most recently a full
+              conversion to an AI-first organization. That meant
+              rethinking how jobs and tasks work once AI does part of
+              them, and helping people from every kind of background make
+              that shift their own. At Microsoft Security, she led
+              exactly that transformation, across a multi-continent team
+              of hundreds.
             </p>
             <p>
-              She has led organizations of up to eighty people. Her approach
-              starts with setting a clear vision, breaking that vision into
-              pieces a team can actually finish, and getting everyone to
-              the finish line together, in an environment that stays
-              collaborative and genuinely fun. Ark Team is where that
-              experience gets applied at a smaller scale: the same ability
-              to turn a big change into work a team can complete, now aimed
-              at businesses that don&apos;t have a transformation team of
-              their own.
+              She has led organizations of up to eighty people, always
+              the same way: set a clear vision, break it into pieces a
+              team can actually finish, and get everyone to the finish
+              line together, in an environment that stays collaborative
+              and genuinely fun. At Ark Team, that same approach reaches
+              further. Instead of transforming one organization at a
+              time, she is bringing it to every business Ark Team works
+              with.
             </p>
           </div>
         </div>
