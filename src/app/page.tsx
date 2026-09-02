@@ -4,7 +4,7 @@ import { Eyebrow } from "@/components/Eyebrow";
 import { ContactCta } from "@/components/ContactCta";
 
 const description =
-  "Get the AI expertise of a full team. ARKai starts where our experts left off, so you get the expertise without the cost of building it.";
+  "ARKai is your team of experts. Get back a response checked for mistakes, checked for anything that isn't true, and checked against how your company already works.";
 
 export const metadata: Metadata = {
   title: "AI expertise for your whole team",
@@ -24,7 +24,7 @@ const pillars = [
   },
   {
     eyebrow: "Trained on your business",
-    heading: "Your customers, your files, how your company runs.",
+    heading: "Your customers, your files, your processes.",
     body: "ARKai learns from your customer data, your work, and your team's own materials. Every answer reflects your voice, your customers, and the way your company operates. Your whole team draws on that same knowledge, so what one person learns is there for everyone.",
   },
   {
@@ -33,6 +33,16 @@ const pillars = [
       "Ark Team works with you to build real AI expertise inside your company.",
     body: "When you're ready, our team works directly with your employees so they can get more from ARKai every day. We help your team reimagine everyday tasks so AI does real work from the start, and guide them through adopting new ways of working, every step of the way.",
   },
+  {
+    eyebrow: "Secure by default",
+    heading: "Your data stays separate, and stays yours.",
+    body: "ARKai never trains on your data, and your information never mixes with any other company's. You decide who on your team can see what, and nothing leaves your hands until someone on your team approves it.",
+  },
+  {
+    eyebrow: "Costs less than building it",
+    heading: "You get the result without building the team.",
+    body: "Hiring the right people, training them, and building tested processes for every task would take months and a team most companies don't have. ARKai gives you that same result already built, ready the day you start.",
+  },
 ];
 
 export default function HomePage() {
@@ -40,13 +50,13 @@ export default function HomePage() {
     <>
       <section className="mx-auto flex max-w-3xl flex-col gap-6 px-6 pt-20 pb-16 sm:px-8 sm:pt-28">
         <h1 className="text-[34px] font-normal leading-[1.16] tracking-[-0.015em] sm:text-[46px]">
-          Get the AI expertise of a full team.
+          ARKai is your team of experts.
         </h1>
         <p className="max-w-[680px] text-lg leading-[1.62] text-text-secondary sm:text-xl">
-          Your team opens ARKai, picks the task they need done, and gets back
-          work they can actually use. Most AI hands you a rough draft to fix.
-          ARKai starts where our experts left off, so you get the expertise
-          without the cost of building it.
+          Your team opens ARKai, picks the job to be done, and gets back a
+          response checked for mistakes, checked for anything that isn't
+          true, and checked against how your company already works. ARKai
+          gives you that expertise without the cost of building it yourself.
         </p>
       </section>
 
