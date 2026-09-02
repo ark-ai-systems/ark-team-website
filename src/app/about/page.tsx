@@ -75,13 +75,8 @@ export default function AboutPage() {
           </div>
           <div className="flex flex-col gap-6 text-lg leading-[1.62] text-text-secondary">
             <p>
-              Rachel spent thirty years in high tech, across startups and
-              massive corporations, and holds two master&apos;s degrees.
-              She also serves on the board of two NGOs, Nerissa&apos;s
-              Place and Gabriel Project Mumbai.
-            </p>
-            <p>
-              Her real expertise is building teams that work across
+              Rachel&apos;s expertise, built over more than thirty years
+              in high tech, is in building teams that work across
               continents and cultures, and hiring specifically for that.
               She has spent much of her career guiding organizations
               through real change: new technology rollouts, new
@@ -94,14 +89,13 @@ export default function AboutPage() {
               of hundreds.
             </p>
             <p>
-              She has led organizations of up to eighty people, always
-              the same way: set a clear vision, break it into pieces a
-              team can actually finish, and get everyone to the finish
-              line together, in an environment that stays collaborative
-              and genuinely fun. At Ark Team, that same approach reaches
-              further. Instead of transforming one organization at a
-              time, she is bringing it to every business Ark Team works
-              with.
+              She has led large organizations, always the same way: set a
+              clear vision, break it into pieces a team can actually
+              finish, and get everyone to the finish line together, in an
+              environment that stays collaborative and genuinely fun. At
+              Ark Team, that same approach reaches further. Instead of
+              transforming one organization at a time, she is bringing it
+              to every business Ark Team works with.
             </p>
           </div>
         </div>
