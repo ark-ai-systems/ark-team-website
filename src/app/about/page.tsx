@@ -70,7 +70,7 @@ export default function AboutPage() {
               Rachel Karlin
             </h2>
             <p className="font-mono text-xs uppercase tracking-[0.14em] text-text-muted">
-              Co-Founder of Ark Team
+              Co-Founder and CEO of Ark Team
             </p>
           </div>
           <div className="flex flex-col gap-6 text-lg leading-[1.62] text-text-secondary">
