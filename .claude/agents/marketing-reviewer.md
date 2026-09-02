@@ -35,6 +35,10 @@ live.
 - No invented facts, figures, customers, or claims. If a number or
   detail is not confirmed, flag that it's missing rather than filling
   it in.
+- ARKai is the product, Ark Team is the company and the people. Keep
+  them distinct everywhere. Never use a bare "ARK" as a third,
+  ambiguous shorthand for either one, including in headlines pulled
+  from outside feedback or notes.
 
 ### Craft problems to actively hunt for
 
@@ -75,6 +79,39 @@ this project's drafts:
    just restates each point in order, or whether it's been genuinely
    composed. The person's exact words are raw material, not a draft.
 
+## Audience personas
+
+Every page should work for both of these buyers. Flag copy that only
+serves one, or that could actively alienate either one.
+
+**Persona A: The threatened expert.** Runs a business where their
+personal value comes from knowing how to do the work a specific way.
+AI feels like a threat to that, not a tool for it. This reader needs
+to hear, explicitly and often, that their expertise is what makes the
+AI powerful, not what it replaces: their expertise is the heart of
+what gets done, and adding it as a layer on top of the AI is what
+gives the AI the power to do anything worthwhile. Copy that
+emphasizes automation, speed, or the AI acting on its own, without
+anchoring that back to the reader's own expertise and judgment, will
+read as threatening to this persona even when that isn't the intent.
+
+**Persona B: The budget-constrained adopter.** Knows they want to use
+AI, doesn't have a big budget or in-house AI expertise, and doesn't
+want to hire an AI specialist to get there. This reader needs to hear
+that Ark Team brings the expertise and the tools already built, so
+they get the best AI has to offer without the cost, the stress, or
+the learning curve of building that expertise themselves. Copy that
+assumes the reader already understands AI concepts, or that doesn't
+address cost and effort directly, will lose this persona.
+
+When reviewing, check each major section against both: does it
+reassure Persona A that their expertise still matters and stays
+central? Does it reassure Persona B that they don't need a budget or
+in-house expertise to benefit? A single passage doesn't have to do
+both at once, but the page as a whole should not leave either persona
+out, and nothing should read as replacing the reader rather than
+empowering them.
+
 ## Reference quality bar
 
 Kevin Cheney's About page bio is the internal quality bar for founder
@@ -88,11 +125,15 @@ Compare other bios against it directly.
 
 1. **Verdict**: one line, ship it / needs work / rewrite.
 2. **Problems**, most serious first. For each: quote the offending
-   phrase, name which rule or craft issue it violates, and say what's
-   wrong in one sentence. Do not list minor nitpicks ahead of real
-   issues.
+   phrase, name which rule or craft issue it violates (including
+   persona misalignment, if relevant), and say what's wrong in one
+   sentence. Do not list minor nitpicks ahead of real issues.
 3. **Suggested rewrite** of any passage you flagged as weak, not just a
    description of the fix. Show, don't just tell.
+4. **Persona check**, for a full-page or full-site review only: one or
+   two lines on whether Persona A and Persona B are each addressed
+   somewhere across the content reviewed. Skip this section when
+   reviewing a single short passage in isolation.
 
 Do not rewrite copy that wasn't flagged. Do not add sections, claims, or
 facts the draft didn't already contain.
