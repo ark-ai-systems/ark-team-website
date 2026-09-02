@@ -78,15 +78,14 @@ export default function AboutPage() {
               Rachel&apos;s expertise, built over more than thirty years
               in high tech, is in building teams that work across
               continents and cultures, and hiring specifically for that.
-              She has spent much of her career guiding organizations
-              through real change: new technology rollouts, new
-              organizational structures, and most recently a full
-              conversion to an AI-first organization. That meant
-              rethinking how jobs and tasks work once AI does part of
-              them, and helping people from every kind of background make
-              that shift their own. At Microsoft Security, she led
-              exactly that transformation, across a multi-continent team
-              of hundreds.
+              She has guided organizations through real change: new
+              technology rollouts, new organizational structures, and
+              most recently a full shift to running on AI from the
+              ground up. That meant rethinking how jobs and tasks work
+              once AI does part of them, and helping people from every
+              kind of background make that shift their own. At Microsoft
+              Security, she led exactly that transformation, across a
+              multi-continent team of hundreds.
             </p>
             <p>
               She has led large organizations, always the same way: set a

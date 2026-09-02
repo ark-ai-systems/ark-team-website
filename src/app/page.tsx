@@ -53,10 +53,11 @@ export default function HomePage() {
           ARKai is your team of experts.
         </h1>
         <p className="max-w-[680px] text-lg leading-[1.62] text-text-secondary sm:text-xl">
-          Your team opens ARKai, picks the job to be done, and gets back a
-          response checked for mistakes, checked for anything that isn't
-          true, and checked against how your company already works. ARKai
-          gives you that expertise without the cost of building it yourself.
+          Your team opens ARKai, picks the task they need done, and gets
+          back a response checked for mistakes, checked for anything that
+          isn't true, and checked against how your company already works.
+          ARKai gives you that expertise without the cost of building it
+          yourself.
         </p>
       </section>
 
